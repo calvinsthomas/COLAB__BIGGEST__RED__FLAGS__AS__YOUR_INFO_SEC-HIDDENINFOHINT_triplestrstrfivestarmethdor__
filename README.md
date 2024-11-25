@@ -5,7 +5,7 @@
 
 # PUBLICBOUNTY__UNITTEST = """EQtriplestrstarstarmethTESTALLBROKENFULLYVs"""
 
-# YOUR FIRM MAIN INFO-HINT: '(MY IP / YOUR FIRM SEC. IP KEY TRIPLET STRING)' = """ __ARROWTEAMSCOLORCODED_subs_meth """
+# YOUR FIRM MAIN INFO-HINT: '(MY IP / YOUR FIRM SEC. IP KEY TRIPLET STRING)' = """ __ARROWTEAMSCOLORCODED_subs_meth_dot_dot_dot_info_hidden_in_public_test_bounty_expected_red_flags_catch_in_sys_bubble+downtime """
 
 # INFO-HIDDEN IMPLEMENTATION - CLEAR, WELL-MAINTAINED SHARABLE >>your sub-repo offer<<
 
